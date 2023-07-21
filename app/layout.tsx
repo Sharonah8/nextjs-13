@@ -14,7 +14,7 @@ export default function RootLayout({
       <head />
       <body>
         <nav>
-          <h1>My navbar all through</h1>
+          <h1>My navbar all through the app</h1>
         </nav>
         {children}
       </body>
